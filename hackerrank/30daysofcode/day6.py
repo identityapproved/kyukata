@@ -4,8 +4,8 @@ for row in range(num_of_rows):
     start_letters = ''
     end_letters = ''
 
-    for letter in stdin_word:
-        if stdin_word.index(letter) % 2 == 0:
+    for i, letter in enumerate(stdin_word):
+        if i % 2 == 0:
             start_letters += letter
         else:
             end_letters += letter
