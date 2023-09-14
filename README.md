@@ -12,6 +12,6 @@ Here's a list of my profiles on different coding challenge platforms where I <s>
 
 I enjoy solving a wide range of coding challenges on **[Hackerrank](https://www.hackerrank.com/identityapproved)**. Feel free to check out my solutions and progress on this platform.
 
-Please feel free to reach out, connect, or follow me on these platforms. I'm always eager to learn and collaborate with fellow developers and enthusiasts!
+##### Please feel free to reach out, connect, or follow me on these platforms. I'm always eager to learn and collaborate with fellow developers and enthusiasts!
 
-## Happy coding!
+***Happy coding!***
