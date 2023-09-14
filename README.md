@@ -6,21 +6,12 @@ Welcome to my Python Challenges repository! This collection of Python code solut
 
 Here's a list of my profiles on different coding challenge platforms where I <s>regularly</s> solve coding problems and improve my programming skills.
 
-### Hackerrank
+**[Codewars](https://www.codewars.com/users/identityapproved)** is a fun place to improve my problem-solving skills and learn from the community. Explore my solutions to various kata.
 
-**Profile**: [Hackerrank Profile](https://www.hackerrank.com/identityapproved)
-I enjoy solving a wide range of coding challenges on Hackerrank. Feel free to check out my solutions and progress on this platform.
+**[LeetCode](https://leetcode.com/identityapproved/)** is where I tackle algorithmic problems, practice data structures, and prepare for technical interviews. Check out my solutions and rankings.
 
-### LeetCode
+I enjoy solving a wide range of coding challenges on **[Hackerrank](https://www.hackerrank.com/identityapproved)**. Feel free to check out my solutions and progress on this platform.
 
-**Profile**: [LeetCode Profile](https://leetcode.com/identityapproved/)
-LeetCode is where I tackle algorithmic problems, practice data structures, and prepare for technical interviews. Check out my solutions and rankings.
-
-### Codewars
-
-**Profile**: [Codewars Profile](https://www.codewars.com/users/identityapproved)
-Codewars is a fun place to improve my problem-solving skills and learn from the community. Explore my solutions to various kata.
-
-#### Please feel free to reach out, connect, or follow me on these platforms. I'm always eager to learn and collaborate with fellow developers and enthusiasts!
+Please feel free to reach out, connect, or follow me on these platforms. I'm always eager to learn and collaborate with fellow developers and enthusiasts!
 
 ## Happy coding!
