@@ -1,6 +1,7 @@
 import unittest
 from squaresum import square_sum 
 from boiledeggs import cooking_time 
+from vowelcount import get_count
 
 class TestCodewars(unittest.TestCase):
 
@@ -21,6 +22,13 @@ class TestCodewars(unittest.TestCase):
         self.assertEqual(cooking_time(16), 10)
         self.assertEqual(cooking_time(20), 15)
         self.assertEqual(cooking_time(100), 65)       
+
+    def test_get_count_assertions(self):
+        self.assertEqual(get_count("aeiou"), 5)
+        self.assertEqual(get_count("y"), 0)
+        self.assertEqual(get_count("bcdfghjklmnpqrstvwxz y"), 0)
+        self.assertEqual(get_count(""), 0)
+        self.assertEqual(get_count("abracadabra"), 5)
 
 if __name__ == '__main__':
     unittest.main()
