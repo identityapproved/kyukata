@@ -16,16 +16,29 @@
 
 import math
 
+# def cooking_time(eggs):
+#     result = math.ceil(eggs/8)*5 if eggs > 0 else 0
+#     print(f"Eggs: {eggs}, Result: {result}")
+#     return result
+
 def cooking_time(eggs):
-    return math.ceil(eggs/8)*5 if eggs > 0 else 0
+    full_batches = eggs // 8
+    remaining_eggs = eggs % 8
+    if remaining_eggs > 0:
+        return (full_batches + 1) * 5
+    else:
+        return full_batches * 5 if eggs > 0 else 0
 
 def test_cooking_time():
-    assert cooking_time(0)== 0 
-    assert cooking_time(5)== 5 
-    assert cooking_time(10)== 10 
-    assert cooking_time(34181)== 21365
-    assert cooking_time(37965) == 23730
-    
+    assert cooking_time(0) == 0  # Test for 0 eggs
+    assert cooking_time(1) == 5  # Test for 1 egg
+    assert cooking_time(5) == 5  # Test for 5 eggs
+    assert cooking_time(8) == 5  # Test for 8 eggs
+    assert cooking_time(9) == 10  # Test for 9 eggs
+    assert cooking_time(10) == 10  # Test for 10 eggs
+    assert cooking_time(16) == 10  # Test for 16 eggs
+    assert cooking_time(20) == 15  # Test for 20 eggs
+    assert cooking_time(100) == 65  # Test for 100 eggs
 
 if __name__ == '__main__':
     test_cooking_time()

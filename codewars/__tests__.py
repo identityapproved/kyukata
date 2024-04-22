@@ -12,11 +12,15 @@ class TestCodewars(unittest.TestCase):
         self.assertEqual(square_sum([-1,0,1]), 2)
 
     def test_cooking_time_assertions(self):
-        self.assertEqual(cooking_time(0), 0) 
-        self.assertEqual(cooking_time(5), 5) 
-        self.assertEqual(cooking_time(10), 10) 
-        self.assertEqual(cooking_time(18710), 21045) 
-        self.assertEqual(cooking_time(34181), 21365) 
-        
+        self.assertEqual(cooking_time(0), 0)
+        self.assertEqual(cooking_time(1), 5)
+        self.assertEqual(cooking_time(5), 5)
+        self.assertEqual(cooking_time(8), 5)
+        self.assertEqual(cooking_time(9), 10)
+        self.assertEqual(cooking_time(10), 10)
+        self.assertEqual(cooking_time(16), 10)
+        self.assertEqual(cooking_time(20), 15)
+        self.assertEqual(cooking_time(100), 65)       
+
 if __name__ == '__main__':
     unittest.main()
