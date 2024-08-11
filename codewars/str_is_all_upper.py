@@ -15,7 +15,8 @@ def is_uppercase(inp):
 
 # Clever
 # return not any(c.islower() for c in inp)
-# return all( i.isupper() for i in inp if i.isalpha() )
+# return all(i.isupper() for i in inp if i.isalpha())
+# return inp.upper()==inp
 
 @test.describe("Fixed Tests")
 def fixed_tests():
