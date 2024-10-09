@@ -7,6 +7,7 @@ Welcome to my Python Challenges repository! This collection of Python code solut
 Here's a list of my profiles on different coding challenge platforms where I <s>regularly</s> solve coding problems and improve my programming skills.
 
 **[Codewars](https://www.codewars.com/users/identityapproved)** is a fun place to improve my problem-solving skills and learn from the community. Explore my solutions to various kata.
+**[List of Python Challenges](/codewars/CODEWARS.md)**
 
 **[LeetCode](https://leetcode.com/identityapproved/)** is where I tackle algorithmic problems, practice data structures, and prepare for technical interviews. Check out my solutions and rankings.
 
