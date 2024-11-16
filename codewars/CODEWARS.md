@@ -21,6 +21,8 @@ This folder contains solutions to various coding challenges from **Codewars**. E
 | [Square Sum](./squaresum.py)        | Returns the sum of squares of a list of numbers.            |
 | [String is All Upper](./str_is_all_upper.py) | Checks if a string contains only uppercase letters.         |
 | [Vowel Count](./vowelcount.py)      | Counts the number of vowels in a given string.              |
+| [Printer Errors](./printer_errors.py)      | Returns the number of printer errors and length of control string.  |
+| [L1: Set Alarm](./l1_set_alarm.py)      | XOR logic to set alarm. |
 
 ## Setting Up the Environment:
 
