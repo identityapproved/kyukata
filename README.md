@@ -8,7 +8,7 @@ Here's a list of my profiles on different coding challenge platforms where I <s>
 
 **[Codewars](https://www.codewars.com/users/identityapproved)** is a fun place to improve my problem-solving skills and learn from the community. Explore my solutions to various kata.
 
-**[List of Python Challenges from Codewars](/codewars/CODEWARS.md)**
+**[List of Python Challenges from Codewars](codewars/CODEWARS.md)**
 
 **[LeetCode](https://leetcode.com/identityapproved/)** is where I tackle algorithmic problems, practice data structures, and prepare for technical interviews. Check out my solutions and rankings.
 
