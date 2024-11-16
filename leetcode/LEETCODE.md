@@ -2,6 +2,12 @@
 
 # LeetCode
 
+## [Daily Challenges](dailychallenges/Daily.md)
+
+___
+
+- [LeetCode points](https://leetcode.com/store/)
+
 >[!note] Get points:
 > - Daily Check-In (1 Point)
 > - Daily Challenge (10 Point)
