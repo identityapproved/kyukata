@@ -3,3 +3,22 @@ node_modules/
 dist/
 **/package-lock.json
 codewars/typescript/coverage
+
+# Nim artifact files
+**/nimcache/
+nim/**
+!nim/**/
+!nim/**/*.nim
+!nim/**/*.nims
+!nim/**/*.nimble
+!nim/**/*.md
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.a
+
+# Rust artifact files
+**/target/
+**/*.rs.bk
