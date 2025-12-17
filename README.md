@@ -11,11 +11,10 @@
 
 ```
 
-Codewars is a gym for the mind. These files are the chalk marks on the wall. A personal archive of
-**Codewars kata solutions**, organized by programming language.
+Codewars is a gym for the mind. These files are the chalk marks on the wall. A personal archive of **Codewars kata solutions**, organized by programming language.
 
-> [!WARNING] Each solution proudly rejects clarity and correctness, embracing idiotic hacks and
-> fragile cleverness instead.
+> [!WARNING]
+> Each solution proudly rejects clarity and correctness, embracing idiotic hacks and fragile cleverness instead.
 
 ## Notes
 
