@@ -17,6 +17,12 @@ proc evenOrOdd*(n: int): string =
   else:
     return "Even"
 
+proc clever*(n: int): string =
+  ["Even", "Odd"][n and 1]
+
+proc bestPractices*(n: int): string =
+  if n %% 2 == 0: "Even" else: "Odd"
+
 echo(evenOrOdd(-1))
 echo(evenOrOdd(2))
 echo(evenOrOdd(3))
