@@ -1,24 +1,42 @@
-# Python Challenges Repository
+[Back](../../README.md)
 
-Welcome to my Python Challenges repository! This collection of Python code solutions is designed to help me improve my Python programming skills while having fun. Whether you're a beginner looking to learn Python or an experienced developer seeking to sharpen your skills, this repository has something for everyone.
+# Codewars Python Challenges 🐍
 
-## Coding Challenge Profiles
+This folder contains solutions to various coding challenges from **Codewars**. Each file is a Python implementation of a challenge, aimed at improving problem-solving skills and mastering Python techniques. Below is a brief description of each challenge.
 
-Here's a list of my profiles on different coding challenge platforms where I <s>regularly</s> solve coding problems and improve my programming skills.
+## Challenge List:
 
-**[Codewars](https://www.codewars.com/users/identityapproved)** is a fun place to improve my problem-solving skills and learn from the community. Explore my solutions to various kata.
+| Challenge                           | Description                                                |
+|-------------------------------------|------------------------------------------------------------|
+| [Boiled Eggs](./boiledeggs.py)      | Determines how many eggs can be boiled within a given time. |
+| [Bouncing Ball](./bouncing_ball.py) | Calculates how many times a ball bounces before height is below a threshold. |
+| [Cat Dog Years](./cat_dog_years.py) | Converts human years to cat and dog years.                  |
+| [Count Duplicates](./count_duplicates.py) | Counts the number of duplicate characters in a string.      |
+| [Filter Geese](./filter_geese.py)   | Filters out geese from a list of bird species.              |
+| [Friend or Foe](./friend_or_foe.py) | Determines if names are friends (exactly 4 letters long).   |
+| [Highest and Lowest](./highest_and_lowest.py) | Finds the highest and lowest number in a string of numbers. |
+| [Is Anagram](./is_anagram.py)       | Checks if two words are anagrams of each other.             |
+| [Is It Even](./isiteven.py)         | Returns if a number is even or not.                         |
+| [PIN Validate](./pin_validate.py)   | Validates if a string is a correct PIN code (4 or 6 digits).|
+| [ROT13](./rot_13.py)                | Applies the ROT13 cipher to a given string.                 |
+| [Sort Numbers](./sort_nums.py)      | Sorts a list of numbers in ascending order.                 |
+| [Square Sum](./squaresum.py)        | Returns the sum of squares of a list of numbers.            |
+| [String is All Upper](./str_is_all_upper.py) | Checks if a string contains only uppercase letters.         |
+| [Vowel Count](./vowelcount.py)      | Counts the number of vowels in a given string.              |
+| [Printer Errors](./printer_errors.py)      | Returns the number of printer errors and length of control string.  |
+| [L1: Set Alarm](./l1_set_alarm.py)      | XOR logic to set alarm. |
 
-**[List of Python Challenges from Codewars](codewars/CODEWARS.md)**
+## Setting Up the Environment:
 
-**[LeetCode](https://leetcode.com/identityapproved/)** is where I tackle algorithmic problems, practice data structures, and prepare for technical interviews. Check out my solutions and rankings.
+1. Initialize Virtual Environment (Optional but recommended):
 
-**[List of Python Challenges from LeetCode](leetcode/LEETCODE.md)**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
-I enjoy solving a wide range of coding challenges on **[Hackerrank](https://www.hackerrank.com/identityapproved)**. Feel free to check out my solutions and progress on this platform.
+2. After activating the virtual environment, install the required packages:
 
-
-
-##### Please feel free to reach out, connect, or follow me on these platforms. I'm always eager to learn and collaborate with fellow developers and enthusiasts!
-##### Also, you may want to explore my [GitHub repository](https://github.com/identityapproved/challenges) filled with JavaScript coding challenge solutions and sharpen your coding skills!
-
-### ***Happy coding!***
+```bash
+pip install -r requirements.txt
+```

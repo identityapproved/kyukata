@@ -1,1 +1,0 @@
-{"version":3,"file":"TreeNode.js","sourceRoot":"","sources":["../../src/leetcode/TreeNode.ts"],"names":[],"mappings":";;;AAEA,MAAa,QAAQ;IAGnB,YAAY,GAAM,EAAE,OAA6B,IAAI,EAAE,QAA8B,IAAI;QACvF,IAAI,CAAC,IAAI,GAAG;YACV,GAAG;YACH,IAAI;YACJ,KAAK;SACN,CAAC;IACJ,CAAC;IAAA,CAAC;CACH;AAVD,4BAUC;AAAA,CAAC"}

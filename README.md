@@ -1,29 +1,24 @@
-# README #
+```
+                _
+   ___ ___   __| | _____      ____ _ _ __ ___
+  / __/ _ \ / _` |/ _ \ \ /\ / / _` | '__/ __|
+ | (_| (_) | (_| |  __/\ V  V / (_| | |  \__ \
+  \___\___/ \__,_|\___| \_/\_/ \__,_|_|  |___/
+  ___  ___ | |_   _| |_(_) ___  _ __  ___
+ / __|/ _ \| | | | | __| |/ _ \| '_ \/ __|
+ \__ \ (_) | | |_| | |_| | (_) | | | \__ \
+ |___/\___/|_|\__,_|\__|_|\___/|_| |_|___/
 
-This README would normally document whatever steps are necessary to get your application up and running.
+```
 
-### What is this repository for? ###
+Codewars is a gym for the mind. These files are the chalk marks on the wall. A personal archive of
+**Codewars kata solutions**, organized by programming language.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+> [!WARNING] Each solution proudly rejects clarity and correctness, embracing idiotic hacks and
+> fragile cleverness instead.
 
-### How do I get set up? ###
+## Notes
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+- Katas range from trivial exercises to needlessly overcomplicated brain damage.
+- Solutions may evolve, usually sideways, occasionally backwards.
+- Readability loses to golfing. Always.
