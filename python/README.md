@@ -17,7 +17,9 @@ This folder contains solutions to various coding challenges from **Codewars**. E
 | [Highest and Lowest](./highest_and_lowest.py) | Finds the highest and lowest number in a string of numbers. |
 | [Is Anagram](./is_anagram.py)       | Checks if two words are anagrams of each other.             |
 | [Is It Even](./isiteven.py)         | Returns if a number is even or not.                         |
+| [Keep Up the Hoop](./keep_up_the_hoop.py) | Encourages continued practice based on number of hoop jumps. |
 | [PIN Validate](./pin_validate.py)   | Validates if a string is a correct PIN code (4 or 6 digits).|
+| [Remove Anchor from URL](./remove_anchor_from_url.py) | Removes the anchor portion from a URL string.               |
 | [ROT13](./rot_13.py)                | Applies the ROT13 cipher to a given string.                 |
 | [Sort Numbers](./sort_nums.py)      | Sorts a list of numbers in ascending order.                 |
 | [Square Sum](./squaresum.py)        | Returns the sum of squares of a list of numbers.            |
